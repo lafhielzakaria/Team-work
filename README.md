@@ -1,2 +1,1 @@
-# Team-work
-learn how to work liike a team
+"Ceci est le README de notre projet" 
